@@ -49,7 +49,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/handsome-squidward.jpeg)  | [Annie Huynh](https://github.com/ahuynh3a) | [source](https://imgflip.com/i/7mvtlt) |
 | ![](assets/MEME.jpeg) | [Shay Scott](https://github.com/kscott675) | [source](https://www.pinterest.com/pin/433330795413169170/) |
 | ![](assets/pundit_meme.jpeg) | [Jeeho Lee](https://github.com/jeeheezy) | [source](https://imgflip.com/i/8idrc4) |
-
 | ![](assets/gjg-meme.jpeg) | [Gustavo Gutierrez](https://github.com/evolshenanigans) | [source](https://m.facebook.com/nixcraft/photos/6160586470621346/) |
 | ![](assets/request-to-meme-ra.png) | [Reid Aumann](https://github.com/reidaumann) | [source](https://pleated-jeans.com/2023/10/14/funniest-programming-memes-from-this-week-october-14-2023/) |
 | ![](assets/sc_js_meme.jpeg) | [Salvador Castaneda](https://github.com/salcasta) | [source](https://medium.com/@daboigbae/five-hilarious-javascript-memes-you-cant-miss-9a8b503d6f6f) |
+| ![](assets/prog-meme-2.jpeg) | [Jose Montes De Oca Morfin](https://github.com/JoseMDO) | [source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FProgrammerHumor%2Fcomments%2Fqpdyso%2Ferror_on_line_42%2F&psig=AOvVaw3zi6wax8SBDOP0Vz79kBWI&ust=1709916243956000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCqncTM4oQDFQAAAAAdAAAAABAS)|
