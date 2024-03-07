@@ -44,3 +44,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/image33.jpeg) | [Chierry Thau](https://github.com/armstrca) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
 | ![](assets/gjg-meme.jpeg) | [Gustavo Gutierrez](https://github.com/evolshenanigans) | [source](https://m.facebook.com/nixcraft/photos/6160586470621346/) |
 | ![](assets/request-to-meme-ra.png) | [Reid Aumann](https://github.com/reidaumann) | [source](https://pleated-jeans.com/2023/10/14/funniest-programming-memes-from-this-week-october-14-2023/) |
+| ![](assets/request-to-meme-ra.png) | [Eduardo Villa](https://github.com/evilla092) | [source](https://preview.redd.it/dontmakemetypeitoutagain-v0-fxukx6y2iwmc1.png?auto=webp&s=cba746562907751e1196330f4c2a57b258926baa) |
