@@ -58,6 +58,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/gjg-meme.jpeg) | [Gustavo Gutierrez](https://github.com/evolshenanigans) | [source](https://m.facebook.com/nixcraft/photos/6160586470621346/) |
 | ![](assets/request-to-meme-ra.png) | [Reid Aumann](https://github.com/reidaumann) | [source](https://pleated-jeans.com/2023/10/14/funniest-programming-memes-from-this-week-october-14-2023/) |
 | ![](assets/sc_js_meme.jpeg) | [Salvador Castaneda](https://github.com/salcasta) | [source](https://medium.com/@daboigbae/five-hilarious-javascript-memes-you-cant-miss-9a8b503d6f6f) |
+| ![](assets/benji_meme.webp) | [Benjamin Guzman-Ayala](https://github.com/BenjaminGuzman-Ayala) | [source](https://www.shutterstock.com/search/coding-memes?image_type=illustration) |
 | ![](assets/fg-meme.png) | [Eduardo Villa](https://github.com/evilla092) | [source](https://preview.redd.it/dontmakemetypeitoutagain-v0-fxukx6y2iwmc1.png?auto=webp&s=cba746562907751e1196330f4c2a57b258926baa) |
 | ![](assets/darksouls_meme.jpeg) | [David Le](https://github.com/DavidVLe1) | [source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fmemegenerator%2F171457391%2FYhorm-Dark-Souls&psig=AOvVaw1NXRP49sD037Y1cSpo51iu&ust=1709914567493000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDg7aTG4oQDFQAAAAAdAAAAABAJ) |
 | ![](https://qph.cf2.quoracdn.net/main-qimg-d370a2c0c5d9b4651897ee5e20c524ff) | [John Paul Fababaer](https://github.com/jpfababaer) | [source](https://qph.cf2.quoracdn.net/main-qimg-d370a2c0c5d9b4651897ee5e20c524ff)
@@ -68,6 +69,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](./assets/Pizza_rolls_meme.jpg) | [Lateef Idris](https://github.com/lateefidris) | [source](https://pbs.twimg.com/media/GA61VZfakAEhXxj.jpg) |
 | ![](assets/prog-meme-3.jpeg) | [Jose Montes De Oca Morfin](https://github.com/JoseMDO) | [source](https://interestingengineering.com/lists/9-of-the-funniest-programmer-memes-right-now)|
 | ![](https://i.imgflip.com/10ox8o.jpg) | [Alana Edwards](https://github.com/prettyalana) | [source](https://imgflip.com/tag/programming?sort=latest&after=13fk2p) |
+| ![](assets/flapjack_meme.jpeg)  | [Jason Johnson](https://github.com/jjohnson606) | [source](https://preview.redd.it/6f99lpe3i8151.jpg?auto%253Dwebp%2526s%253D6a760891b0c8905979480ca7cc672f77912c5287) |
 | ![]([assets/request-to-meme-ra.png](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg)) | [Lamont Sampson](https://github.com/lsampson74) | [source](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg) |
 | ![](assets/60d33bf456d81ff850d41d2e_91ZWM5Ez2aBXw3zcOIgPLP7XnuFW_exwhPzdToPa_AsEcV0Pw837S_kUbYpfpCUAZCLUSZ0_rdV_dUaZRLyz-wOKOMyEi7IaVDvU-tzmpbaUDKY9TNY5GexvJ9ei2R-LTqpfaaQD) | [Shafaq Juda](https://github.com/shafaq-juda) | [source](https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33bf456d81ff850d41d2e_91ZWM5Ez2aBXw3zcOIgPLP7XnuFW_exwhPzdToPa_AsEcV0Pw837S_kUbYpfpCUAZCLUSZ0_rdV_dUaZRLyz-wOKOMyEi7IaVDvU-tzmpbaUDKY9TNY5GexvJ9ei2R-LTqpfaaQD.png) | 
-
+| ![](assets/writing-code-meme.jpeg) | [Rohan Mendiratta](https://github.com/romendi) | [source](https://www.boredpanda.com/programmer-funny-coding-jokes/) | 
