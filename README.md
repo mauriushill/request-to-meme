@@ -56,3 +56,5 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](https://qph.cf2.quoracdn.net/main-qimg-d370a2c0c5d9b4651897ee5e20c524ff) | [John Paul Fababaer](https://github.com/jpfababaer) | [source](https://qph.cf2.quoracdn.net/main-qimg-d370a2c0c5d9b4651897ee5e20c524ff)
 | ![](assets/ap-programmer-life.gif) | [Andrew Pham](https://github.com/andrewp8) | [source](https://media0.giphy.com/media/2KAGlmkPywhZS/200w.gif?cid=6c09b952a3qmebfwsezajf8hjdvs5pgwqp1ahbe4mjodsm1y&ep=v1_gifs_search&rid=200w.gif&ct=g) |
 | ![](assets/listening.jpeg)  | [Jose Pantoja Jr](https://github.com/jpanto21) | [source](https://www.linkedin.com/company/javascript-developer/posts/?feedView%253Dall)|
+| ![](/assets/6-Live-footage-of-someone-getting-ready-to-write-Per-my-last-email-...-GettyImages-1223166087.jpg) | [Winnie Wu](https://github.com/WCW789) | [source](https://www.rd.com/list/funny-work-memes/) |
+ 
