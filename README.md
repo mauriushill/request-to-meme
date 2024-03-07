@@ -40,7 +40,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](./assets/cat_memosis.jpeg) | [Dmitrii Sumenko](https://github.com/flstudio4) | [source](https://www.newshub.co.nz/home/lifestyle/2019/08/the-top-five-cat-memes-of-all-time-rated.html) |
 | ![](./assets/three-spidermen.jpeg) | [Alejandro Lopez](https://github.com/alejlopez139) | [source](https://pbs.twimg.com/media/FMTJZP4VgAEWxxr?format=jpg&name=large)
 | ![](assets/image.jpg) | [Chierry Thau](https://github.com/armstrca) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
-| ![](https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33be7eedf8e1f31aabcec_BwENfmI0CU5dZGYlSyo142mpfG08-rYgTS-Qm47uMUXN6JXtmdZvtzVzTooUQdXTWmTD8uzF9N6XQJA2vUIMi53tunFyVtvOBJTNfOjHit2P_JkTmFzFsK7ep6Vb9781XZnRAryH.png) | [Ethan Huang](https://github.com/EthanKH) | [source](https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33be7eedf8e1f31aabcec_BwENfmI0CU5dZGYlSyo142mpfG08-rYgTS-Qm47uMUXN6JXtmdZvtzVzTooUQdXTWmTD8uzF9N6XQJA2vUIMi53tunFyVtvOBJTNfOjHit2P_JkTmFzFsK7ep6Vb9781XZnRAryH.png) |
+| ![](https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33be7eedf8e1f31aabcec_BwENfmI0CU5dZGYlSyo142mpfG08-rYgTS-Qm47uMUXN6JXtmdZvtzVzTooUQdXTWmTD8uzF9N6XQJA2vUIMi53tunFyVtvOBJTNfOjHit2P_JkTmFzFsK7ep6Vb9781XZnRAryH.png) | [Ethan Huang](https://github.com/EthanKH) | [source](https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33be7eedf8e1f31aabcec_BwENfmI0 CU5dZGYlSyo142mpfG08-rYgTS-Qm47uMUXN6JXtmdZvtzVzTooUQdXTWmTD8uzF9N6XQJA2vUIMi53tunFyVtvOBJTNfOjHit2P_JkTmFzFsK7ep6Vb9781XZnRAryH.png) |
 | ![](assets/image33.jpeg) | [Chierry Thau](https://github.com/armstrca) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
 | ![](assets/gjg-meme.jpeg) | [Gustavo Gutierrez](https://github.com/evolshenanigans) | [source](https://m.facebook.com/nixcraft/photos/6160586470621346/) |
 | ![](assets/request-to-meme-ra.png) | [Reid Aumann](https://github.com/reidaumann) | [source](https://pleated-jeans.com/2023/10/14/funniest-programming-memes-from-this-week-october-14-2023/) |
@@ -54,13 +54,9 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | -------- | ------- | ------- |
 | ![](assets/handsome-squidward.jpeg)  | [Annie Huynh](https://github.com/ahuynh3a) | [source](https://imgflip.com/i/7mvtlt) |
 | ![](assets/MEME.jpeg) | [Shay Scott](https://github.com/kscott675) | [source](https://www.pinterest.com/pin/433330795413169170/) |
-
-
-=======
 | ![](assets/pundit_meme.jpeg) | [Jeeho Lee](https://github.com/jeeheezy) | [source](https://imgflip.com/i/8idrc4) |
 | ![](assets/gjg-meme.jpeg) | [Gustavo Gutierrez](https://github.com/evolshenanigans) | [source](https://m.facebook.com/nixcraft/photos/6160586470621346/) |
 | ![](assets/request-to-meme-ra.png) | [Reid Aumann](https://github.com/reidaumann) | [source](https://pleated-jeans.com/2023/10/14/funniest-programming-memes-from-this-week-october-14-2023/) |
-
 | ![](assets/sc_js_meme.jpeg) | [Salvador Castaneda](https://github.com/salcasta) | [source](https://medium.com/@daboigbae/five-hilarious-javascript-memes-you-cant-miss-9a8b503d6f6f) |
 | ![](assets/request-to-meme-ra.png) | [Eduardo Villa](https://github.com/evilla092) | [source](https://preview.redd.it/dontmakemetypeitoutagain-v0-fxukx6y2iwmc1.png?auto=webp&s=cba746562907751e1196330f4c2a57b258926baa) |
 | ![](assets/darksouls_meme.jpeg) | [David Le](https://github.com/DavidVLe1) | [source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fmemegenerator%2F171457391%2FYhorm-Dark-Souls&psig=AOvVaw1NXRP49sD037Y1cSpo51iu&ust=1709914567493000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDg7aTG4oQDFQAAAAAdAAAAABAJ) |
@@ -71,11 +67,8 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/huh_cat.jpg) | [Joanna Rodriguez ](https://github.com/joannarodriguez134) | [source](https://knowyourmeme.com/memes/huh-cat) |
 | ![](./assets/Pizza_rolls_meme.jpg) | [Lateef Idris](https://github.com/lateefidris) | [source](https://pbs.twimg.com/media/GA61VZfakAEhXxj.jpg) |
 | ![](https://i.imgflip.com/10ox8o.jpg) | [Alana Edwards](https://github.com/prettyalana) | [source](https://imgflip.com/tag/programming?sort=latest&after=13fk2p) |
-
 | ![](assets/flapjack_meme.jpeg)  | [Jason Johnson](https://github.com/jjohnson606) | [source](https://preview.redd.it/6f99lpe3i8151.jpg?auto%253Dwebp%2526s%253D6a760891b0c8905979480ca7cc672f77912c5287) |
-
 | ![]([assets/request-to-meme-ra.png](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg)) | [Lamont Sampson](https://github.com/lsampson74) | [source](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg) |
-
 
 
 
