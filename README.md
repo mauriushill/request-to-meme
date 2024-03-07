@@ -53,3 +53,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/gjg-meme.jpeg) | [Gustavo Gutierrez](https://github.com/evolshenanigans) | [source](https://m.facebook.com/nixcraft/photos/6160586470621346/) |
 | ![](assets/request-to-meme-ra.png) | [Reid Aumann](https://github.com/reidaumann) | [source](https://pleated-jeans.com/2023/10/14/funniest-programming-memes-from-this-week-october-14-2023/) |
 | ![](assets/sc_js_meme.jpeg) | [Salvador Castaneda](https://github.com/salcasta) | [source](https://medium.com/@daboigbae/five-hilarious-javascript-memes-you-cant-miss-9a8b503d6f6f) |
+| ![](assets/darksouls_meme.jpeg) | [David Le](https://github.com/DavidVLe1) | [source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fmemegenerator%2F171457391%2FYhorm-Dark-Souls&psig=AOvVaw1NXRP49sD037Y1cSpo51iu&ust=1709914567493000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDg7aTG4oQDFQAAAAAdAAAAABAJ) |
