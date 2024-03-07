@@ -59,6 +59,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/ap-programmer-life.gif) | [Andrew Pham](https://github.com/andrewp8) | [source](https://media0.giphy.com/media/2KAGlmkPywhZS/200w.gif?cid=6c09b952a3qmebfwsezajf8hjdvs5pgwqp1ahbe4mjodsm1y&ep=v1_gifs_search&rid=200w.gif&ct=g) |
 | ![](assets/listening.jpeg)  | [Jose Pantoja Jr](https://github.com/jpanto21) | [source](https://www.linkedin.com/company/javascript-developer/posts/?feedView%253Dall)|
 | ![](assets/huh_cat.jpg) | [Joanna Rodriguez ](https://github.com/joannarodriguez134) | [source](https://knowyourmeme.com/memes/huh-cat) |
+| ![](/assets/6-Live-footage-of-someone-getting-ready-to-write-Per-my-last-email-...-GettyImages-1223166087.jpg) | [Winnie Wu](https://github.com/WCW789) | [source](https://www.rd.com/list/funny-work-memes/) |
 | ![](./assets/Pizza_rolls_meme.jpg) | [Lateef Idris](https://github.com/lateefidris) | [source](https://pbs.twimg.com/media/GA61VZfakAEhXxj.jpg) |
 | ![](assets/prog-meme-3.jpeg) | [Jose Montes De Oca Morfin](https://github.com/JoseMDO) | [source](https://interestingengineering.com/lists/9-of-the-funniest-programmer-memes-right-now)|
 | ![](https://i.imgflip.com/10ox8o.jpg) | [Alana Edwards](https://github.com/prettyalana) | [source](https://imgflip.com/tag/programming?sort=latest&after=13fk2p) |
