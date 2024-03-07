@@ -64,3 +64,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/ap-programmer-life.gif) | [Andrew Pham](https://github.com/andrewp8) | [source](https://media0.giphy.com/media/2KAGlmkPywhZS/200w.gif?cid=6c09b952a3qmebfwsezajf8hjdvs5pgwqp1ahbe4mjodsm1y&ep=v1_gifs_search&rid=200w.gif&ct=g) |
 | ![](assets/listening.jpeg)  | [Jose Pantoja Jr](https://github.com/jpanto21) | [source](https://www.linkedin.com/company/javascript-developer/posts/?feedView%253Dall)|
 | ![](./assets/Pizza_rolls_meme.jpg) | [Lateef Idris](https://github.com/lateefidris) | [source](https://pbs.twimg.com/media/GA61VZfakAEhXxj.jpg) |
+| ![](https://i.imgflip.com/10ox8o.jpg) | [Alana Edwards](https://github.com/prettyalana) | [source](https://imgflip.com/tag/programming?sort=latest&after=13fk2p) |
