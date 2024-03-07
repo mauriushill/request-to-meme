@@ -67,6 +67,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/request-to-meme-ra.png) | [Reid Aumann](https://github.com/reidaumann) | [source](https://pleated-jeans.com/2023/10/14/funniest-programming-memes-from-this-week-october-14-2023/) |
 | ![](assets/huh_cat.jpg) | [Joanna Rodriguez ](https://github.com/joannarodriguez134) | [source](https://knowyourmeme.com/memes/huh-cat) |
 | ![](./assets/Pizza_rolls_meme.jpg) | [Lateef Idris](https://github.com/lateefidris) | [source](https://pbs.twimg.com/media/GA61VZfakAEhXxj.jpg) |
+| ![](assets/prog-meme-3.jpeg) | [Jose Montes De Oca Morfin](https://github.com/JoseMDO) | [source](https://interestingengineering.com/lists/9-of-the-funniest-programmer-memes-right-now)|
 | ![](https://i.imgflip.com/10ox8o.jpg) | [Alana Edwards](https://github.com/prettyalana) | [source](https://imgflip.com/tag/programming?sort=latest&after=13fk2p) |
 | ![](assets/flapjack_meme.jpeg)  | [Jason Johnson](https://github.com/jjohnson606) | [source](https://preview.redd.it/6f99lpe3i8151.jpg?auto%253Dwebp%2526s%253D6a760891b0c8905979480ca7cc672f77912c5287) |
 | ![]([assets/request-to-meme-ra.png](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg)) | [Lamont Sampson](https://github.com/lsampson74) | [source](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg) |
