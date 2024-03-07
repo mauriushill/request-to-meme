@@ -54,3 +54,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/sc_js_meme.jpeg) | [Salvador Castaneda](https://github.com/salcasta) | [source](https://medium.com/@daboigbae/five-hilarious-javascript-memes-you-cant-miss-9a8b503d6f6f) |
 | ![](https://qph.cf2.quoracdn.net/main-qimg-d370a2c0c5d9b4651897ee5e20c524ff) | [John Paul Fababaer](https://github.com/jpfababaer) | [source](https://qph.cf2.quoracdn.net/main-qimg-d370a2c0c5d9b4651897ee5e20c524ff)
 | ![](assets/ap-programmer-life.gif) | [Andrew Pham](https://github.com/andrewp8) | [source](https://media0.giphy.com/media/2KAGlmkPywhZS/200w.gif?cid=6c09b952a3qmebfwsezajf8hjdvs5pgwqp1ahbe4mjodsm1y&ep=v1_gifs_search&rid=200w.gif&ct=g) |
+| ![](assets/listening.jpeg)  | [Jose Pantoja Jr](https://github.com/jpanto21) | [source](https://www.linkedin.com/company/javascript-developer/posts/?feedView%253Dall)|
