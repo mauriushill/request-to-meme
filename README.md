@@ -55,7 +55,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/benji_meme.webp) | [Benjamin Guzman-Ayala](https://github.com/BenjaminGuzman-Ayala) | [source](https://www.shutterstock.com/search/coding-memes?image_type=illustration) |
 | ![](assets/fg-meme.png) | [Eduardo Villa](https://github.com/evilla092) | [source](https://preview.redd.it/dontmakemetypeitoutagain-v0-fxukx6y2iwmc1.png?auto=webp&s=cba746562907751e1196330f4c2a57b258926baa) |
 | ![](assets/darksouls_meme.jpeg) | [David Le](https://github.com/DavidVLe1) | [source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fmemegenerator%2F171457391%2FYhorm-Dark-Souls&psig=AOvVaw1NXRP49sD037Y1cSpo51iu&ust=1709914567493000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDg7aTG4oQDFQAAAAAdAAAAABAJ) |
-| ![](https://qph.cf2.quoracdn.net/main-qimg-d370a2c0c5d9b4651897ee5e20c524ff) | [John Paul Fababaer](https://github.com/jpfababaer) | [source](https://qph.cf2.quoracdn.net/main-qimg-d370a2c0c5d9b4651897ee5e20c524ff)
+| ![](https://i.imgflip.com/8ie56l.jpg) | [John Paul Fababaer](https://github.com/jpfababaer) | [source](https://i.imgflip.com/8ie56l.jpg)
 | ![](assets/ap-programmer-life.gif) | [Andrew Pham](https://github.com/andrewp8) | [source](https://media0.giphy.com/media/2KAGlmkPywhZS/200w.gif?cid=6c09b952a3qmebfwsezajf8hjdvs5pgwqp1ahbe4mjodsm1y&ep=v1_gifs_search&rid=200w.gif&ct=g) |
 | ![](assets/listening.jpeg)  | [Jose Pantoja Jr](https://github.com/jpanto21) | [source](https://www.linkedin.com/company/javascript-developer/posts/?feedView%253Dall)|
 | ![](assets/huh_cat.jpg) | [Joanna Rodriguez ](https://github.com/joannarodriguez134) | [source](https://knowyourmeme.com/memes/huh-cat) |
