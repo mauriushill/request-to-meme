@@ -49,3 +49,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | -------- | ------- | ------- |
 | ![](assets/handsome-squidward.jpeg)  | [Annie Huynh](https://github.com/ahuynh3a) | [source](https://imgflip.com/i/7mvtlt) |
 | ![](assets/MEME.jpeg) | [Shay Scott](https://github.com/kscott675) | [source](https://www.pinterest.com/pin/433330795413169170/) |
+| ![]([assets/request-to-meme-ra.png](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg)) | [Lamont Sampson](https://github.com/lsampson74) | [source](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg) |
